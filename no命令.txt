@@ -1,0 +1,9 @@
+nohup python train.py &
+watch -n 0.1 -d nvidia-smi
+
+
+
+
+
+
+yolov5s batch-size: 108
